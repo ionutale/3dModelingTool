@@ -234,6 +234,7 @@
     }
     
     // update the table view
+    
     [_delegate updateObjectList:_objectsInWorld];
     [_delegate graphicViewUpdated];
 
