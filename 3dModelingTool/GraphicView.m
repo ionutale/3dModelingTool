@@ -226,7 +226,7 @@
         [obj4 setYPos:cos * i];
         [obj4 setZPos:sin * i];
         [_objectsInWorld addObject:obj4];
-        
+        //
         id obj5 = [CustomModel create];
         [obj5 setXPos:cos * 8];
         [obj5 setYPos:sin * 8];
